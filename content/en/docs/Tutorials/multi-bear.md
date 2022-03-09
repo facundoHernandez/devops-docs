@@ -1,5 +1,5 @@
 ---
-title: "Multi-Bear Domicile Setup"
+title: "Tutorial example"
 date: 2017-01-05
 weight: 4
 description: >

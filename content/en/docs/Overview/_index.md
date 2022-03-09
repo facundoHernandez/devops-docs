@@ -43,5 +43,5 @@ Some benefits of an efficient documentation:
 ## Where should I go next?
 
 
-* [Getting Started](/docs/getting-started/): Example codes
-* [Examples](/docs/examples/): Check out some example code!
+* [Example page](/docs/examples/): Example codes
+* [Onboarding](/docs/onboarding/): New here? Check this!
