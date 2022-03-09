@@ -4,7 +4,7 @@
 
 How to set your own dev enviornment?
 
-![Containers](./resources/_gen/images/containers.png)
+![Containers](./assets/img/containers.png)
 
 ``` bash
   git clone https://github.com/facundoHernandez/devops-docs.git && cd ./devops-doc
