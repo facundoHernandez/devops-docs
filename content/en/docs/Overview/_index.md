@@ -3,36 +3,45 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+  Welcome to DevOps Docs
 ---
 
+## What is it?
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+**This is all we need, a centralized documentation service based on "Docs as Code"**
 {{% /pageinfo %}}
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+## Why do we need it?
 
-Try answering these questions for your user in this page:
+### Documentation is everything, if it's not documented don't exist.
 
-## What is it?
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+Some benefits of an efficient documentation:
 
-## Why do I want it?
+* **A single source of truth saves time and energy**: 
+  
+  Estimates state that the average knowledge worker spends about two and a half hours per day searching for the information they need. Effective documentation collects all of the must-know information about a task, project, or team (from account logins to step-by-step instructions) in a centralized, organized place. No more digging through email or downloaded files for the latest information.
 
-Help your user know if your project will help them. Useful information can include: 
+* **Documentation is essential to quality and process control**: 
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+  There’s more than one way to get things done, and you want to give your team the flexibility to approach their work in a way that suits them best. 
+  But, at the same time, you want to ensure consistent results – especially when it comes to things that you’re producing on a regular basis. There needs to be some level of cohesion so that you don’t look sloppy or uninformed. 
+  
+  **Documentation encourages knowledge sharing, which empowers your team to understand how processes work and what finished projects typically look like.**
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+* **Documentation cuts down duplicative work**: 
+  
+  How many times have you started a new project only to find out it had been done before? Companies that use documentation to catalog past projects, collect research, and share decisions benefit by reducing re-work that wastes precious time you could be using elsewhere. 
+  Why reinvent the wheel when you can just build on the work that’s already happened? With documentation in place, you can refer to past work and learn from it, instead of doing it all over again with the same results.
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+
+### For more information 
+
+*  You can check it here [Links](https://www.atlassian.com/work-management/knowledge-sharing/documentation/importance-of-documentation)
 
 ## Where should I go next?
 
-Give your users next steps from the Overview. For example:
 
-* [Getting Started](/docs/getting-started/): Get started with $project
+* [Getting Started](/docs/getting-started/): Example codes
 * [Examples](/docs/examples/): Check out some example code!
-
