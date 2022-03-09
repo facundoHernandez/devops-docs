@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "DevOps Docs"
 
 # Language settings
 contentDir = "content/en"
@@ -70,7 +70,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
+title = "DevOps Docs"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
@@ -118,9 +118,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/facundoHernandez/devops-docs"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/facundoHernandez/devops-docs"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
