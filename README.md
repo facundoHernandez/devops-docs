@@ -16,4 +16,4 @@ How to set your own dev enviornment?
   docker run -p 1313:1313 -v $(pwd):/src devops-doc server
 
 ```
-Now you can access to check your changes [Links](localhost:1313)
+Now you can access to check your changes http://localhost:1313
