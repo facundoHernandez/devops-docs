@@ -8,9 +8,7 @@ How to set your own dev enviornment?
 ![Containers](./assets/img/containers.png)
 
 ``` bash
-  git clone https://github.com/facundoHernandez/devops-docs.git && cd ./devops-doc
-  
-  git checkout -b dev
+ git clone --recurse-submodules --depth 1 https://github.com/facundoHernandez/devops-docs.git && cd ./devops-docs
 
   docker build -t devops-doc .
 
