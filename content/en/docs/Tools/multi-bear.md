@@ -1,5 +1,5 @@
 ---
-title: "Tutorial example"
+title: "Tool example"
 date: 2017-01-05
 weight: 4
 description: >
